@@ -4,17 +4,17 @@ Using python to download data programmatically, from web pages and API, with bas
 ## Dataset
 
 > The data in this dataset contains tweets from the WeRateDogs twitter account, which rates dogs out of 10 based on picture of them submitted by their humans. The data is gathered using Twitter's API with the tweepy library. Photos were also downloaded using the PIL library and twitter api data was downloaded and saved as a json file before being read into the jupyter notebook.
-libraries used:
-pandas
-numpy
-requests
-os
-tweepy
-json
-PIL
-io
-collections
-nltk
+> libraries used:
+- pandas
+- numpy
+- requests
+- os
+- tweepy
+- json
+- PIL
+- io
+- collections
+- nltk
 
 ## Summary of Findings
 
